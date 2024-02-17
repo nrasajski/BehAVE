@@ -1,5 +1,7 @@
 # Simulator-Free Visual Domain Randomization via Video Games 
-Paper: https://arxiv.org/abs/out_paper
+**Paper:** https://arxiv.org/abs/2402.01335
+
+**Project Page:** https://sites.google.com/view/behavefw/home
 
 Additional code and links to our dataset will be updated shortly.
 
