@@ -2,8 +2,6 @@
 
 **Dataset:** https://drive.google.com/drive/folders/1K4BiOSHa8nHQPm4T2guB8AVF-y3H85ZQ
 
-**arXiv version:** https://arxiv.org/abs/2402.01335
-
 Additional code will be updated.
 
 <img height="200" src="assets/figure1.jpg">
