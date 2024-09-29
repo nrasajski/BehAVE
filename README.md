@@ -1,7 +1,7 @@
 # Simulator-Free Visual Domain Randomization via Video Games 
 **Paper:** https://arxiv.org/abs/2402.01335
 
-**Project Page:** https://sites.google.com/view/behavefw/home
+**Dataset:** https://drive.google.com/drive/folders/1K4BiOSHa8nHQPm4T2guB8AVF-y3H85ZQ
 
 Additional code and links to our dataset will be updated shortly.
 
@@ -36,7 +36,7 @@ We provide links to project pages for other datasets we use as they are the prop
 ## Requirements
 
 ### Python and OS requirements
-All code was tested on machines running Windows 10. For specific Python and library versions please refer to `requirements.txt` file (will be added shortly).
+All code was tested on machines running Windows 10 and Python 3.10. For specific Python and library versions please refer to `requirements.txt` file (will be added shortly).
 
 ## License
 This repository can be used for personal projects and open-sourced research. Commercial use in any form is not permitted.
