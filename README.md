@@ -1,9 +1,9 @@
 # BehAVE: Behaviour Alignment of Video Game Encodings
-**Paper:** https://arxiv.org/abs/2402.01335
 
 **Dataset:** https://drive.google.com/drive/folders/1K4BiOSHa8nHQPm4T2guB8AVF-y3H85ZQ
+**arXiv version:** https://arxiv.org/abs/2402.01335
 
-Additional code and links to our dataset will be updated shortly.
+Additional code will be updated.
 
 <img height="200" src="assets/figure1.jpg">
 <img height="200" src="assets/figure2.jpg">
@@ -28,7 +28,6 @@ Brief overview of each script's purpose.
 
 ## Datasets
 
-We are currently in the process of hosting data collected for this project. Links and descriptions will be updated shortly.
 We provide links to project pages for other datasets we use as they are the property of their respective authors, and fall under licences and terms they define.
 - [CS:GO](https://github.com/TeaPearce/Counter-Strike_Behavioural_Cloning)
 - [Minecraft](https://github.com/openai/Video-Pre-Training)
