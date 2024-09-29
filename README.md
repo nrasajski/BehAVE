@@ -1,4 +1,4 @@
-# Simulator-Free Visual Domain Randomization via Video Games 
+# BehAVE: Behaviour Alignment of Video Game Encodings (
 **Paper:** https://arxiv.org/abs/2402.01335
 
 **Dataset:** https://drive.google.com/drive/folders/1K4BiOSHa8nHQPm4T2guB8AVF-y3H85ZQ
