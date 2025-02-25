@@ -1,8 +1,8 @@
-# BehAVE: Behaviour Alignment of Video Game Encodings
+# BehAVE: Behaviour Alignment of Video Game Encodings [Best paper award at Computer Vision for Videogames (CV2) workshop ECCV 2024]
 
 **Dataset:** https://drive.google.com/drive/folders/1K4BiOSHa8nHQPm4T2guB8AVF-y3H85ZQ
 
-**Preprint:** https://antoniosliapis.com/research/research_deepnetworks.php#rasajski2024behave
+**Preprint:** https://arxiv.org/abs/2402.01335v3
 
 Additional code will be updated.
 
