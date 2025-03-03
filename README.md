@@ -4,7 +4,7 @@
 
 **Preprint:** https://arxiv.org/abs/2402.01335v3
 
-Additional code will be updated.
+**Project page with interactive t-SNE demo:** https://sites.google.com/view/behavefw/home
 
 <img height="200" src="assets/figure1.jpg">
 <img height="200" src="assets/figure2.jpg">
